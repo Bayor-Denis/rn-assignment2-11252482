@@ -6,5 +6,5 @@ The view component is to be modified by changing the background color and the te
 The name should be modified to blod.
 
 # Screenshort of the app
-Screenshort.jpg
+![alt text](Screenshort.jpg)
 
